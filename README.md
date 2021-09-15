@@ -2,5 +2,5 @@
 
 ## Sample
 
-![alt text](https://im.ge/i/TwWlzG)
-![alt text](https://im.ge/i/TwWuOx)
+![alt text](https://i.im.ge/2021/09/15/TwWlzG.png)
+![alt text](https://i.im.ge/2021/09/15/TwWuOx.png)
