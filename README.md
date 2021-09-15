@@ -1,19 +1,6 @@
 # serotonin
 
-## Project setup
-```
-yarn install
-```
+## Sample
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![alt text](https://im.ge/i/TwWlzG)
+![alt text](https://im.ge/i/TwWuOx)

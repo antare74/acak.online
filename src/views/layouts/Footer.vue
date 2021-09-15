@@ -4,7 +4,7 @@
             <div class="mt-16 flex flex-col items-center">
                 <div class="sm:w-2/3 text-center py-6">
                     <p class="text-sm text-black-700 font-bold mb-2">
-                        © 2020 Serotonin
+                        © 2020 Antare74 || acak.online
                     </p>
                 </div>
             </div>
